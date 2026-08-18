@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linguagem-C-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge">
 </p>
 
 ---
